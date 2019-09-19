@@ -1,5 +1,5 @@
 FROM node:current-alpine
-USER ROOT
+USER root
 
 RUN apk add yarn
 
